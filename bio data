@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <marquee behavior="scroll" direction="left">
+       
+    <h1>WebSite</h1>
+</marquee>
+    <head>
+    
+
+    <style>
+        *{
+            background-color: rgb(187, 222, 88);
+
+        }
+        h1{
+            background-color: aliceblue;
+            text-align: center;
+            color:rgb(11, 9, 9);
+            text-transform: uppercase;
+            text-decoration-line: underline;
+            
+           
+        }
+
+        div:hover{
+            height: 290x;
+            width: 290px;
+            align-items: center;
+            box-shadow: 8px 8px 50px black;
+            border-radius: 18px;
+            
+            
+
+             }
+
+             div{height: 250px;
+                width: 250px;
+                border-radius: 18px;
+                motion-offset: 10px;
+                cellspaceing="20px"
+                 height: 250px;
+                  margin: 15px;
+
+             }
+        img{
+            width: inherit;
+            height: inherit;
+            border-radius: inherit;
+        }
+
+        tr{
+            <p>Pavan</p>
+            border-image-outset: 40px;
+        }
+
+
+
+    </style>
+</head>
+<body>
+<table>
+    <tr1>
+
+        <td>
+
+             <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+
+            <div>
+                <img src="b:\personal pics\WhatsApp Image 2025-11-12 at 21.06.05_90b72426.jpg" alt=" ">
+            </div>
+        </td>
+
+        <td>
+            <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+            <div>
+ 
+                <img src="b:\personal pics\WhatsApp Image 2025-11-12 at 21.06.05_90b72426.jpg" alt=" ">
+            </div>
+        </td>
+</a>
+
+       <td>
+                <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+                <div>
+                <img src="b:\personal pics\WhatsApp Image 2025-11-12 at 21.06.05_90b72426.jpg" alt=" ">
+            </div>
+        </td>
+    </a>
+         <td>
+                <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+                    <div>
+                <img src="b:\personal pics\WhatsApp Image 2025-11-12 at 21.06.05_90b72426.jpg" alt=" ">
+            </div>
+        </td>
+    </a>
+    <td>
+                <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+                    <div>
+                <img src="b:\personal pics\WhatsApp Image 2025-11-12 at 21.06.05_90b72426.jpg" alt=" ">
+            </div>
+        </td>
+    </a>
+    <td>
+           <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+                    <div>
+                <img src="b:\personal pics\WhatsApp Image 2025-11-12 at 21.06.05_90b72426.jpg" alt=" ">
+            </div>
+        </td>
+    </a>
+        
+</tr1>
+    <tr>
+        <td>
+            <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w"></a>
+            <div>
+                <img src="b:\my personal\WhatsApp Image 2024-10-29 at 23.08.35_9da36ac3.jpg" alt=" ">
+            </div>
+        </td>
+         <td><div><img src="b:\my personal\WhatsApp Image 2024-10-29 at 23.08.35_9da36ac3.jpg" alt=" "></div></td>
+          <td><div><img src="b:\my personal\WhatsApp Image 2024-10-29 at 23.08.35_9da36ac3.jpg" alt=" "></div></td>
+           <td><div><img src="b:\my personal\WhatsApp Image 2024-10-29 at 23.08.35_9da36ac3.jpg" alt=" "></div></td>
+            <td><div><img src="b:\my personal\WhatsApp Image 2024-10-29 at 23.08.35_9da36ac3.jpg" alt=" "></div></td>
+             <td><div><img src="b:\my personal\WhatsApp Image 2024-10-29 at 23.08.35_9da36ac3.jpg" alt=" "></div></td>
+    </tr>
+
+    </td>
+</a>
+    <tr>
+    <td>
+    <a href="https://youtu.be/LWv6s-4Zn48?si=lBGiMDmVAKvgjeQN" target="_blank">
+        <div>
+            <img src="a:\school video\images.jpeg">
+        </div>
+    </a>
+</td>
+<td>
+    <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+        <div>
+            <img src="b:\logos\Yevadu_poster.jpg">
+        </div>
+    </a>
+</td>
+<td>
+    <a href="https://youtu.be/LWv6s-4Zn48?si=lBGiMDmVAKvgjeQN" target="_blank">
+        <div>
+            <img src="b:\logos\Srimanthudu_poster.jpg">
+        </div>
+    </a>
+</td>
+<td>
+    <a href="https://youtu.be/EeFy7TXVW-c?si=FpnQwYq7I5URuB2w">
+        <div>
+            <img src="b:\logos\Srimanthudu_poster.jpg">
+        </div>
+    </a>
+
+</td>
+<td>
+    <a href="https://youtu.be/2wGSKHW2PvI?si=jRWJkbA1pElB3OVR">
+        <div>
+            <img src="b:\logos\Bharat_Ane_Nenu_poster.jpg">
+        </div>
+    </a>
+</td>
+
+<td>
+    <a href="https://youtu.be/XD1cW3z5epg?si=CjvO6E7_-P3HvLuR">
+        <div>
+            <img src="b:\logos\download.jpeg">
+        </div>
+    </a>
+</td>
+  </tr>
+</table>
+</body>
+</html>
